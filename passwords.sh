@@ -1,5 +1,5 @@
 #!/bin/bash
-declare -a arr=("Github", "HF Staging")
+declare -a arr=("Github", "Staging")
 declare -a pass=("git!2@1212", "beta!223@")
 
 # validate number arguments
