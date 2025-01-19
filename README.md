@@ -6,13 +6,6 @@ This is a simple password manager (IG) which can store the passwords and load th
 You can make a alias out of it make it easier.
 
 ## Features
-# Simple Password Manager (Linux)
-
-This is a simple password manager designed to store and manage passwords on Linux. It allows you to securely store your passwords and load them into clipboard memory for quick access. The script is lightweight and designed for use in Linux environments. 
-
-You can create an alias to make it even easier to use.
-
-## Features
 
 - Store passwords in an array within the script.
 - Load a selected password into clipboard memory using `xclip`.
